@@ -1,3 +1,10 @@
+/*****************************************************************************************************************
+Ashraful hoda 29th Oct 2024
+note that while testing on local machine CORS errors may occur when running directly from the file system.
+As it happend to me ...so use some sort of server....preferably python server
+******************************************************************************************************************/
+
+
 fetch("data/events.json")
   .then((response) => response.json())
   .then((data) => {
