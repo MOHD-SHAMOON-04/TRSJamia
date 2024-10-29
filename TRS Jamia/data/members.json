@@ -1,0 +1,59 @@
+{
+  "name": "TRS Jamia",
+  "children": [
+    {
+      "team": "Tech Team",
+      "teamLead": "Vikas Kumar",
+      "members": [
+        "Ashraful",
+        "Haaris",
+        "ASAD",
+        "Azam ",
+        "Ayan ",
+        "Hafeez ",
+        "Muntaha",
+        "FAIZAN ",
+        "Awaiz ",
+        "Arsalan ",
+        "Salman",
+        "Sadiq ",
+        "Akash ",
+        "Ariyan",
+        "Faiqa ",
+        "Qayad",
+        "Naqui",
+        "Shadab",
+        "kaleem",
+        "Adnan"
+      ]
+    },
+    {
+      "team": "Graphic Design Team",
+      "teamLead": "Danish",
+      "members": [
+        "Shoeb",
+        "Faizur",
+        "Arsal",
+        "aijaz",
+        "Samir ",
+        "Abdullah",
+        "Farhan",
+        "Swapnil",
+        "RAZI",
+        "Furqan",
+        "Bagejahan",
+        "Iram",
+        "Anjla",
+        "Aman ",
+        "Anas",
+        "Yusuf",
+        "Sohan"
+      ]
+    },
+    {
+      "team": "PR Team",
+      "teamLead": "unknown",
+      "members": ["E", "F"]
+    }
+  ]
+}
