@@ -18,15 +18,18 @@
       rel="stylesheet"
     />
     <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
-
-    <!-- Main CSS File -->
-    <link href="assets/css/main.css" rel="stylesheet" />
+   <!--vis.css -->
+    <link
+      href="https://unpkg.com/vis-network/styles/vis-network.min.css"
+      rel="stylesheet"
+    />
   </head>
   <body>
-    <h1>THIS IS MEMBERS PAGE</h1>
-    <!--     ...................................  -->
-<!--     CONTINUE YOUR CODE FROME HERE -->
-<!--     ................................... -->
+  
+<div
+      id="members-tree"
+      style="height: 600px; width: 100%; background-color: #1a1a1a"
+    ></div>
 
 
     <!-- Vendor JS Files -->
@@ -36,8 +39,11 @@
     <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
     <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
 
-    <!-- Main JS File -->
-    <script src="assets/js/main.js"></script>
+   <!-- vis-network script -->
+    <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+
+    <!-- JSON Renderer Script -->
+    <script src="memberRenderer.js"></script>
 
     <!-- disable left click/console menu (DONT TOUCH THIS) -->
      <script>
